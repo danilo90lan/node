@@ -1,0 +1,12 @@
+{
+  "name": "prova",
+  "version": "1.0.0",
+  "description": "file di prova",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "roll-twice": "ROLL_COUNT=2 node app.js"
+  },
+  "author": "danilo",
+  "license": "ISC"
+}
